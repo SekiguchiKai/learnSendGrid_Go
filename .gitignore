@@ -43,7 +43,3 @@ Temporary Items
 .glide/
 
 .idea/
-.gitignore
-.idea/learnSendGrid_Go.iml
-.idea/modules.xml
-.idea/workspace.xml
